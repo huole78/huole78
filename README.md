@@ -1,8 +1,7 @@
-# 👋 你好，我是 [你的名字]
+# 👋 你好，我是毛鹏
+> 一个喜欢二次元的计算机小白
 
-> 一个喜欢  的开发者 / 学生 / 摸鱼选手。
-
-![头像](https://github.com/你的用户名/你的仓库/raw/main/avatar.png)
+![我的头像](https://github.com/huole78/project/blob/main/9582f1bedb59b42722146aae5ca640c2.jpg)
 
 ---
 
